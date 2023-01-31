@@ -1,0 +1,35 @@
+Resumo
+O que aprendi no Git foi os comandos utilizados no terminal , tive uma noção dos quais são mais 
+utilizado , acredito que seja os mais usados e o processo do Git que ele tem 3 estados , working directory ,
+onde estão os arquivos criados e modificados , ao dar o git add ele adiciona a area de estágio , onde os 
+arquivos estão preparados e para serem comitados e consolidados no diretório do Git , além quando os arquivos 
+estão já comitados e salvos no diretório do Git , foi meu primeiro contato com Git , tive um pouco de 
+dificuldade para adaptar aos comandos , mas aos poucos consigo entender o processo.
+
+Comandos Git 
+Git init = Esse comando inicializa um repositório Git na pasta selecionada 
+Git add <nome do arquivo> = Esse comando adiciona um arquivo específico à area de Stage 
+Git add . = Esse comando adiciona todos os arquivos da pasta à area de Stage
+Git status = Verifica o estado atual que se encontra os arquivos , se há algo para adicionar e dar 
+commits
+Git commit = Pelo que entendi esse comando é utilizado para escrever alguma mensagam explicando
+alterações que tenha feito no projeto
+Git log = Verifica um histórico dos seus commits , a data e hora , o usuário que realizou
+além disso fornece o ID do commit 
+Git checkout = Esse comando pelo que entendi ele volta no tempo caso queira alterar um commit 
+específico e tambem serve para acessar branches diferentes
+Git branch <nome do arquivo> = Esse comando cria uma branch 
+Git push = Comando para puxar do repositório local para o repositório remoto
+Git pull = Comando para puxar do repositório remoto para o  repositório local
+Git diff = Analisa as modificações que tenha feito nos arquivos 
+Git merge <nome da branch> = Ele mescla seus arquivos de uma certa branch com a branch master ou 
+branch main 
+Git clone <link> = Ele clona o seu repositório remoto para seu computador
+Git ignore = O .gitignore ele ignora os arquivos que não deseja adicionar e commitar
+Git rm --cached <arquivo> = Ele remove o arquivo adicionado da área de Stage
+Git revert = Ele reverte um commit caso tenha feito algo errado e o comando cria automaticamente um 
+commit novo para essa alteração 
+Git remote <link> - Acessar o repositório remoto
+
+
+
