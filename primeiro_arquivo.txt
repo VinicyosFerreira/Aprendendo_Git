@@ -29,7 +29,7 @@ Git ignore = O .gitignore ele ignora os arquivos que não deseja adicionar e com
 Git rm --cached <arquivo> = Ele remove o arquivo adicionado da área de Stage
 Git revert = Ele reverte um commit caso tenha feito algo errado e o comando cria automaticamente um 
 commit novo para essa alteração 
-Git remote <link> - Acessar o repositório remoto
+Git remote <link> - Acessar o repositório remoto 
 
 
 
